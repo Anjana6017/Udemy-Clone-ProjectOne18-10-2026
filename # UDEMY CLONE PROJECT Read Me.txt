@@ -1,0 +1,39 @@
+# UDEMY CLONE PROJECT
+
+## About the Project
+This project is a simple clone of the Udemy website created using HTML and CSS. It displays online courses with images, course names, prices, offers, and navigation links.
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Features
+- Navigation bar
+- Course search section
+- Course images and descriptions
+- Course prices with discount offers
+- Responsive layout
+- Footer with useful links
+- Hover effects
+
+## Project Structure
+- index.html – Main webpage
+- style.css – Styling and layout
+- images/ – Course images
+
+## How to Run
+1. Download or copy the project files.
+2. Open the project folder in VS Code.
+3. Open index.html in your browser.
+4. Explore the Udemy Clone webpage.
+
+## Purpose
+The purpose of this project is to practice HTML and CSS and improve frontend web development skills.
+
+## Disclaimer
+This is an educational project created for practice. It is not the official Udemy website.
+
+## Created By
+Anjana Rajendran
+
+© 2026 Udemy Clone Project. All rights reserved.
